@@ -6,6 +6,7 @@ gemspec
 gem 'jekyll'
 
 gem 'wdm', '>= 0.1.0'
+gem 'github-pages', group: :jekyll_plugins
 
 gem 'jekyll-paginate'
 gem 'jekyll-feed'
